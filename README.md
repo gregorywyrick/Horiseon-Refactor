@@ -12,7 +12,7 @@ No installation is required, simply follow the link to the deployed webpage prov
 
 The deployed page can be found here: https://gregorywyrick.github.io/Horiseon-Refactor/
 
-Please see the screen shots of the functional deployed webpage-
+Please see the screen shots of the functional deployed webpage:
 
 ![Screen Shot 2022-12-06 at 8 58 42 PM](https://user-images.githubusercontent.com/110744014/206077415-3e659c65-5328-4ad8-8579-ceb6c2370a46.png)
 
