@@ -10,7 +10,7 @@ No installation is required, simply follow the link to the deployed webpage prov
 
 ## Usage
 
-The deployed page can be found here:
+The deployed page can be found here: https://gregorywyrick.github.io/Horiseon-Refactor/
 
 ## Credit
 
